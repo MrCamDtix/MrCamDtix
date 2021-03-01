@@ -1,11 +1,11 @@
-### The Fucking God
+### The Fucking God 😈
 
 <!--
 **MrCamDtix/Clarky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Clarky
-# Damaged
+# Clarky 😈 
+## Damaged 😈
 
 <a href="https://twitter.com/ClarkyXeon">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
