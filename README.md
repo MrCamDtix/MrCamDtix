@@ -1,4 +1,4 @@
-### The Fucking God
+## The Fucking God
 ### One And Only
 
 <!--
@@ -25,7 +25,6 @@
 
 - I mainly modify private repositories
 - Xeon Modifications Strategy
-- Cameron Dtix
 
 ## Interests
 - 🔎 Game Modding
