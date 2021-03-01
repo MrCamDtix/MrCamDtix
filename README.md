@@ -23,8 +23,9 @@
 <br />
 <br />
 
-- Average bloke
 - I mainly modify private repositories
+- Xeon Modifications Strategy
+- Cameron Dtix
 
 ## Interests
 - 🔎 Game Modding
