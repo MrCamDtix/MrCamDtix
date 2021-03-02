@@ -6,7 +6,7 @@
 -->
 
 # Clarky 🙌 
-##### Damaged 
+###### Damaged 
 
 #### Connect with me on other platforms:
 
@@ -25,6 +25,7 @@
 
 - I mainly modify private repositories
 - Xeon Modifications Strategy
+- I occasionally push updates towards my personal site
 
 ## Interests
 - 🔎 Game Modding
