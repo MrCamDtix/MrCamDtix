@@ -6,7 +6,6 @@
 -->
 
 # Clarky 🙌 
-###### Damaged 
 
 #### Connect with me on other platforms:
 
