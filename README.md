@@ -5,14 +5,14 @@
 **MrCamDtix/Clarky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Priest 🙌 
+# ClarkyXeon 🙌 
 
 #### Connect with me on other platforms:
 
 <a href="https://twitter.com/ClarkyXeon">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://discord.com/users/825012949290057751">
+<a href="https://discord.com/users/708283842259320884">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://steamcommunity.com/id/ClarkyTheGod">
