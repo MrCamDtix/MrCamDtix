@@ -5,7 +5,7 @@
 **MrCamDtix/Clarky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Clarky 🙌 
+# Priest 🙌 
 
 #### Connect with me on other platforms:
 
